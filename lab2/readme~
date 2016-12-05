@@ -1,0 +1,17 @@
+As we learnt in lectures
+the rate of convergence is 2 in newton-raphson method.
+1.6  in secant method 
+
+but efficiency is p^(1/n) ;
+
+in newton's method efficiency is 1.4142
+in secant method 1.618 
+
+the number of functions to evaluate is two in newton's method
+one in secant method
+and three in another method which is given in question
+
+
+no of iterations in newton's method is 6
+no of iterations in secant method is 8
+

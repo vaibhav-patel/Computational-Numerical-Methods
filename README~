@@ -1,0 +1,20 @@
+in problem 1:
+    As iterations increases ratio first increases and then tends to be constant
+    the greatest allowable error is 0.000000001
+    with this precision after 26 iterations xn becomes almost constant
+    the root of the function is situated at (0.0000,0.00000)
+
+in problem 2:
+
+    In bisection method:
+    ratio of x(n+1) and x(n) is nearly 0.5
+    After 25 iterations the difference between x(n+1) and x(n) tends to zero(nearly 0.000000001)
+    In this method root is at (-0.567143,0.000)
+    
+    In newton's method:
+    As iterations increases ratio first increases and then tends to be constant
+    the greatest allowable error is 0.000000001
+    with this precision after 6 iterations xn becomes almost constant
+    the root of the function is situated at (-0.567143,0.00000)
+        
+    
